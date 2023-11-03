@@ -4,6 +4,6 @@ Curriculum:
     - ADAS Project Manager
 
 Soft Skills:
-    - Cocinero
+    - Comunicación
     - Paciencia
     
