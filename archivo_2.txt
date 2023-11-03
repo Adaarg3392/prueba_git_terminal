@@ -1,4 +1,5 @@
 Curriculum:
     - Ingeniero del automóvil
+    - Payaso
     - ADAS Project Manager
     

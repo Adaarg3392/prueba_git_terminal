@@ -2,5 +2,7 @@ nombre: Adalberto
 
 apellidos: Argüello Romo
 
+email: a.arguello.eva@gmail.com
+
 edad: 30
 
