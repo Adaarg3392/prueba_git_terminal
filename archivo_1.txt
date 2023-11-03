@@ -1,0 +1,6 @@
+nombre: Adalberto 
+
+apellidos: Argüello Romo
+
+edad: 30
+
