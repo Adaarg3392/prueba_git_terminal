@@ -1,0 +1,4 @@
+Curriculum:
+    - Ingeniero del automóvil
+    - ADAS Project Manager
+    
