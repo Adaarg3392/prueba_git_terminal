@@ -2,4 +2,8 @@ Curriculum:
     - Ingeniero del automóvil
     - Payaso
     - ADAS Project Manager
+
+Soft Skills:
+    - Cocinero
+    - Paciencia
     
